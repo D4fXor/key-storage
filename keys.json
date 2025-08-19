@@ -3,6 +3,15 @@
     "role": "Developer",
     "createdAt": 1755604142938,
     "expiresAt": 1758196142938,
-    "used": false
+    "used": true,
+    "assignedTo": "daffaap"
+  },
+  "daffaap": {
+    "username": "Daffaap",
+    "password": "$2b$10$o8wxRkgkzQZKhAC.qZ6BP.qsfla4GY1mQSskgJpPff4fkzRzh8a3S",
+    "role": "Developer",
+    "createdAt": 1755604182791,
+    "expiresAt": 1758196142938,
+    "registeredByKey": "KO7M9L1S"
   }
 }
