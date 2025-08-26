@@ -18,6 +18,15 @@
     "role": "Owner",
     "createdAt": 1756243539348,
     "expiresAt": 1758835539348,
-    "used": false
+    "used": true,
+    "assignedTo": "ibrahim"
+  },
+  "ibrahim": {
+    "username": "ibrahim",
+    "password": "$2b$10$jvA7eTGiQGzf4MmDlikhqO/pf9.0HdSDwQ0lHF12cxYG2IpgZ0fja",
+    "role": "Owner",
+    "createdAt": 1756243576212,
+    "expiresAt": 1758835539348,
+    "registeredByKey": "VKAM1TLO"
   }
 }
