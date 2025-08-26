@@ -13,5 +13,11 @@
     "createdAt": 1755604182791,
     "expiresAt": 1758196142938,
     "registeredByKey": "KO7M9L1S"
+  },
+  "VKAM1TLO": {
+    "role": "Owner",
+    "createdAt": 1756243539348,
+    "expiresAt": 1758835539348,
+    "used": false
   }
 }
