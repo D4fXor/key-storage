@@ -33,6 +33,15 @@
     "role": "Reseller",
     "createdAt": 1756299159204,
     "expiresAt": 1758891159204,
-    "used": false
+    "used": true,
+    "assignedTo": "yuta"
+  },
+  "yuta": {
+    "username": "Yuta",
+    "password": "$2b$10$5TagL1b5m0tAK0cVHJxoSOTEQNGUwkefak/semmCKXuP4LKonOChm",
+    "role": "Reseller",
+    "createdAt": 1756299288421,
+    "expiresAt": 1758891159204,
+    "registeredByKey": "8ET3JVFJ"
   }
 }
