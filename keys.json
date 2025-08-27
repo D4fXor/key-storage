@@ -28,5 +28,11 @@
     "createdAt": 1756243576212,
     "expiresAt": 1758835539348,
     "registeredByKey": "VKAM1TLO"
+  },
+  "8ET3JVFJ": {
+    "role": "Reseller",
+    "createdAt": 1756299159204,
+    "expiresAt": 1758891159204,
+    "used": false
   }
 }
