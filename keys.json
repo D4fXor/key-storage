@@ -60,6 +60,15 @@
     "role": "Member",
     "createdAt": 1756687541075,
     "expiresAt": 1759279541075,
-    "used": false
+    "used": true,
+    "assignedTo": "meldi"
+  },
+  "meldi": {
+    "username": "Meldi",
+    "password": "$2b$10$WPFJ6aAiVwc3wB8NbpgGzugFkXdBwTTqElspuy5y2QApkaegaUEWO",
+    "role": "Member",
+    "createdAt": 1756687638208,
+    "expiresAt": 1759279541075,
+    "registeredByKey": "EXOB3WVJ"
   }
 }
