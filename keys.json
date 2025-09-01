@@ -70,5 +70,11 @@
     "createdAt": 1756687638208,
     "expiresAt": 1759279541075,
     "registeredByKey": "EXOB3WVJ"
+  },
+  "KQ8QPF8A": {
+    "role": "Member",
+    "createdAt": 1756724069322,
+    "expiresAt": 1757588069322,
+    "used": false
   }
 }
