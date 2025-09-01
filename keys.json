@@ -81,6 +81,15 @@
     "role": "Member",
     "createdAt": 1756742327187,
     "expiresAt": 1759334327187,
-    "used": false
+    "used": true,
+    "assignedTo": "xin"
+  },
+  "xin": {
+    "username": "Xin",
+    "password": "$2b$10$umA3sAWrSNgyHvw6qQcs9uh2FY7LVaOZjgiO9ogq/7B6Oc0D/me5m",
+    "role": "Member",
+    "createdAt": 1756742419802,
+    "expiresAt": 1759334327187,
+    "registeredByKey": "PA2DIZQL"
   }
 }
