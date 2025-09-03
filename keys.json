@@ -75,7 +75,8 @@
     "role": "Member",
     "createdAt": 1756724069322,
     "expiresAt": 1757588069322,
-    "used": false
+    "used": true,
+    "assignedTo": "fajra17"
   },
   "PA2DIZQL": {
     "role": "Member",
@@ -112,5 +113,13 @@
     "createdAt": 1756880716933,
     "expiresAt": 1759471828178,
     "registeredByKey": "3G8B65YC"
+  },
+  "fajra17": {
+    "username": "Fajra17",
+    "password": "$2b$10$ntft.oJrHziwoS2Li.1FUOSYcq.b0lExCMbSFwduHq2y0KqGUnj1K",
+    "role": "Member",
+    "createdAt": 1756920578304,
+    "expiresAt": 1757588069322,
+    "registeredByKey": "KQ8QPF8A"
   }
 }
