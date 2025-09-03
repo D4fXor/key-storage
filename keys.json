@@ -97,5 +97,11 @@
     "createdAt": 1756878929701,
     "expiresAt": 1759470929701,
     "used": false
+  },
+  "3G8B65YC": {
+    "role": "Member",
+    "createdAt": 1756879828178,
+    "expiresAt": 1759471828178,
+    "used": false
   }
 }
