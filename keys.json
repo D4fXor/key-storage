@@ -102,6 +102,15 @@
     "role": "Member",
     "createdAt": 1756879828178,
     "expiresAt": 1759471828178,
-    "used": false
+    "used": true,
+    "assignedTo": "@costbotz"
+  },
+  "@costbotz": {
+    "username": "@CostBotz",
+    "password": "$2b$10$NWgf0C1vk74HC/.RuWVl0OitKRgCSlDusOL.KXTNJlZ571t1OkKh2",
+    "role": "Member",
+    "createdAt": 1756880716933,
+    "expiresAt": 1759471828178,
+    "registeredByKey": "3G8B65YC"
   }
 }
