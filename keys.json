@@ -91,5 +91,11 @@
     "createdAt": 1756742419802,
     "expiresAt": 1759334327187,
     "registeredByKey": "PA2DIZQL"
+  },
+  "B1KCTH4O": {
+    "role": "Member",
+    "createdAt": 1756878929701,
+    "expiresAt": 1759470929701,
+    "used": false
   }
 }
