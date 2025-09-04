@@ -121,5 +121,11 @@
     "createdAt": 1756920578304,
     "expiresAt": 1757588069322,
     "registeredByKey": "KQ8QPF8A"
+  },
+  "8L4WR96I": {
+    "role": "Member",
+    "createdAt": 1757026186298,
+    "expiresAt": 1759618186298,
+    "used": false
   }
 }
