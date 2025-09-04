@@ -126,6 +126,15 @@
     "role": "Member",
     "createdAt": 1757026186298,
     "expiresAt": 1759618186298,
-    "used": false
+    "used": true,
+    "assignedTo": "engsut"
+  },
+  "engsut": {
+    "username": "Engsut",
+    "password": "$2b$10$QreGq3AzIHGsVqOhiuA83.QUSiOQlOaJcVz6uldQfCOh5t.bJPzLO",
+    "role": "Member",
+    "createdAt": 1757026290098,
+    "expiresAt": 1759618186298,
+    "registeredByKey": "8L4WR96I"
   }
 }
