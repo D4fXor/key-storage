@@ -3,12 +3,21 @@
     "role": "Owner",
     "createdAt": 1763208306058,
     "expiresAt": 1765800306058,
-    "used": false
+    "used": true,
+    "assignedTo": "ajhoe"
   },
   "FE03JGXY": {
     "role": "Owner",
     "createdAt": 1763208435058,
     "expiresAt": 1765800435058,
     "used": false
+  },
+  "ajhoe": {
+    "username": "Ajhoe",
+    "password": "$2b$10$lYbrm9wps8FKQN06mZv0wOw/mOy6mKD.MfB7h.Bc3q6UMeNN7Qa9W",
+    "role": "Owner",
+    "createdAt": 1763208454529,
+    "expiresAt": 1765800306058,
+    "registeredByKey": "3V7RKKXK"
   }
 }
