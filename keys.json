@@ -10,7 +10,8 @@
     "role": "Owner",
     "createdAt": 1763208435058,
     "expiresAt": 1765800435058,
-    "used": false
+    "used": true,
+    "assignedTo": "daffaap"
   },
   "ajhoe": {
     "username": "Ajhoe",
@@ -19,5 +20,13 @@
     "createdAt": 1763208454529,
     "expiresAt": 1765800306058,
     "registeredByKey": "3V7RKKXK"
+  },
+  "daffaap": {
+    "username": "DaffaAp",
+    "password": "$2b$10$0Cp6QXn9KEFMCIhsL3hX8ehxyoFExcuS/uFOVHUa.EZYpoOwhaVjO",
+    "role": "Owner",
+    "createdAt": 1763208463832,
+    "expiresAt": 1765800435058,
+    "registeredByKey": "FE03JGXY"
   }
 }
