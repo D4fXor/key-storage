@@ -48,6 +48,15 @@
     "role": "Developer",
     "createdAt": 1763830679394,
     "expiresAt": 1766422679394,
-    "used": false
+    "used": true,
+    "assignedTo": "k4ezar"
+  },
+  "k4ezar": {
+    "username": "K4ezar",
+    "password": "$2b$10$vg/d6FT2zFTPzZWMkRMbseYAhTm/Xu0Jz6XYnKuiVE5CYVPjb0a/O",
+    "role": "Developer",
+    "createdAt": 1763830859464,
+    "expiresAt": 1766422679394,
+    "registeredByKey": "407QGFI9"
   }
 }
