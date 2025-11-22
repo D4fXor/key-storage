@@ -58,5 +58,11 @@
     "createdAt": 1763830859464,
     "expiresAt": 1766422679394,
     "registeredByKey": "407QGFI9"
+  },
+  "12YU7UO5": {
+    "role": "Developer",
+    "createdAt": 1763830938892,
+    "expiresAt": 1766422938892,
+    "used": false
   }
 }
