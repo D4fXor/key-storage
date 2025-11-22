@@ -28,5 +28,11 @@
     "createdAt": 1763208463832,
     "expiresAt": 1765800435058,
     "registeredByKey": "FE03JGXY"
+  },
+  "EES3N5XI": {
+    "role": "Developer",
+    "createdAt": 1763787793245,
+    "expiresAt": 1766379793245,
+    "used": false
   }
 }
