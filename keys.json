@@ -33,6 +33,15 @@
     "role": "Developer",
     "createdAt": 1763787793245,
     "expiresAt": 1766379793245,
-    "used": false
+    "used": true,
+    "assignedTo": "dap"
+  },
+  "dap": {
+    "username": "Dap",
+    "password": "$2b$10$kRlY9Wzpo6PEQ6PfBx3wxesyPk87pOoqPcRM7kLkn4c//WWNB7uiW",
+    "role": "Developer",
+    "createdAt": 1763787884126,
+    "expiresAt": 1766379793245,
+    "registeredByKey": "EES3N5XI"
   }
 }
