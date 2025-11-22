@@ -43,5 +43,11 @@
     "createdAt": 1763787884126,
     "expiresAt": 1766379793245,
     "registeredByKey": "EES3N5XI"
+  },
+  "407QGFI9": {
+    "role": "Developer",
+    "createdAt": 1763830679394,
+    "expiresAt": 1766422679394,
+    "used": false
   }
 }
