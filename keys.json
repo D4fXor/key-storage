@@ -69,6 +69,15 @@
     "role": "Owner",
     "createdAt": 1764526010573,
     "expiresAt": 1767118010573,
-    "used": false
+    "used": true,
+    "assignedTo": "daffa"
+  },
+  "daffa": {
+    "username": "Daffa",
+    "password": "$2b$10$7TbuhCws0Mva1jHHbIcZ.ukeIzFTPLuEqZtXH.LAKOMClDBezi3S6",
+    "role": "Owner",
+    "createdAt": 1764526058364,
+    "expiresAt": 1767118010573,
+    "registeredByKey": "F7KKXC5Q"
   }
 }
