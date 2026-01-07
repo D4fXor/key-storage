@@ -94,5 +94,14 @@
     "createdAt": 1767811870024,
     "expiresAt": 1770403834114,
     "registeredByKey": "OSIKPCI6"
+  },
+  "dammah": {
+    "username": "Dammah",
+    "password": "$2b$10$07zQVIgl7VpsAAxyncF4IODlGzCI7fpcCAQhyPVKo8aq89glNNN0q",
+    "role": "Owner",
+    "createdAt": 1767814677332,
+    "expiresAt": 1770406677332,
+    "createdBy": "daffaapp",
+    "createdByRole": "Developer"
   }
 }
