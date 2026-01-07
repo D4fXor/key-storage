@@ -79,5 +79,11 @@
     "createdAt": 1764526058364,
     "expiresAt": 1767118010573,
     "registeredByKey": "F7KKXC5Q"
+  },
+  "OSIKPCI6": {
+    "role": "Developer",
+    "createdAt": 1767811834114,
+    "expiresAt": 1770403834114,
+    "used": false
   }
 }
