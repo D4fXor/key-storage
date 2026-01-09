@@ -103,5 +103,14 @@
     "expiresAt": 1770406677332,
     "createdBy": "daffaapp",
     "createdByRole": "Developer"
+  },
+  "obito": {
+    "username": "Obito",
+    "password": "$2b$10$3VLCKQQ871u8BlehmtZzzOTsqJOdlCtPsWAqqWkq.5bdd4RqVoaTG",
+    "role": "Partner",
+    "createdAt": 1767982475218,
+    "expiresAt": 1770574475218,
+    "createdBy": "daffaapp",
+    "createdByRole": "Developer"
   }
 }
